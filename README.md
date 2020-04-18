@@ -10,6 +10,7 @@ Codedaddieslist works getting the data typed in _search bar_, scrapping losangel
 
 Main tools used were:
 - [Django](https://www.djangoproject.com/)
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#)
 - [Materialize](https://materializecss.com/about.html)
 - [Heroku](https://www.heroku.com/)
 
